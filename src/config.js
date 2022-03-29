@@ -1,19 +1,19 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0x9498274b8c82b4a3127d67839f2127f2ae9753f4",
+    "collection_address": "0xDBCab7A768EA9a00B2fFA5A2eB387cAD609E2114",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
-    "block_chain_id": "137",
+    "block_chain_id": "1",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
-    "title": "My NFT Collection",
+    "title": "Alpha Kongs Club NFT Collection",
 
     // 4. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "banner_picture": "https://www.superflexfitness.com/wp-content/uploads/2017/03/3D-banner-background.jpg",
+    "banner_picture": "https://lh3.googleusercontent.com/zrq1W4rNppYimoZLSKALU1szsurYLhebSsylXBXgiDSXS0cbGBvvJ7OH7eLEM0zrILpcrwJqirvMPSBbVA9LY1-PfPrHwktbjE-FJGI=w304",
   },
 
   // Supported networks - just for your reference
