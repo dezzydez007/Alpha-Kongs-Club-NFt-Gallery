@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css",
-    "main.js": "/nft-dashboard-template/static/js/main.6f30eeaf.chunk.js",
-    "main.js.map": "/nft-dashboard-template/static/js/main.6f30eeaf.chunk.js.map",
-    "runtime-main.js": "/nft-dashboard-template/static/js/runtime-main.c210edee.js",
-    "runtime-main.js.map": "/nft-dashboard-template/static/js/runtime-main.c210edee.js.map",
-    "static/js/2.22b58bae.chunk.js": "/nft-dashboard-template/static/js/2.22b58bae.chunk.js",
-    "static/js/2.22b58bae.chunk.js.map": "/nft-dashboard-template/static/js/2.22b58bae.chunk.js.map",
-    "index.html": "/nft-dashboard-template/index.html",
-    "static/css/main.f48c2a0c.chunk.css.map": "/nft-dashboard-template/static/css/main.f48c2a0c.chunk.css.map",
-    "static/js/2.22b58bae.chunk.js.LICENSE.txt": "/nft-dashboard-template/static/js/2.22b58bae.chunk.js.LICENSE.txt",
-    "static/media/Back.8af6b2fe.svg": "/nft-dashboard-template/static/media/Back.8af6b2fe.svg",
-    "static/media/Covalent-Background_5.cc7bc02b.jpg": "/nft-dashboard-template/static/media/Covalent-Background_5.cc7bc02b.jpg",
-    "static/media/App.css": "/nft-dashboard-template/static/media/alert.6e5425f9.svg",
-    "static/media/banner.e7e48588.png": "/nft-dashboard-template/static/media/banner.e7e48588.png",
-    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/nft-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
-    "static/media/logo.00ecc9d5.svg": "/nft-dashboard-template/static/media/logo.00ecc9d5.svg"
+    "main.css": "/Alpha-Kongs-Club-NFt-Gallery/static/css/main.e760bf3b.chunk.css",
+    "main.js": "/Alpha-Kongs-Club-NFt-Gallery/static/js/main.2e189b39.chunk.js",
+    "main.js.map": "/Alpha-Kongs-Club-NFt-Gallery/static/js/main.2e189b39.chunk.js.map",
+    "runtime-main.js": "/Alpha-Kongs-Club-NFt-Gallery/static/js/runtime-main.34c3e2fb.js",
+    "runtime-main.js.map": "/Alpha-Kongs-Club-NFt-Gallery/static/js/runtime-main.34c3e2fb.js.map",
+    "static/js/2.5163c460.chunk.js": "/Alpha-Kongs-Club-NFt-Gallery/static/js/2.5163c460.chunk.js",
+    "static/js/2.5163c460.chunk.js.map": "/Alpha-Kongs-Club-NFt-Gallery/static/js/2.5163c460.chunk.js.map",
+    "index.html": "/Alpha-Kongs-Club-NFt-Gallery/index.html",
+    "static/css/main.e760bf3b.chunk.css.map": "/Alpha-Kongs-Club-NFt-Gallery/static/css/main.e760bf3b.chunk.css.map",
+    "static/js/2.5163c460.chunk.js.LICENSE.txt": "/Alpha-Kongs-Club-NFt-Gallery/static/js/2.5163c460.chunk.js.LICENSE.txt",
+    "static/media/Back.8af6b2fe.svg": "/Alpha-Kongs-Club-NFt-Gallery/static/media/Back.8af6b2fe.svg",
+    "static/media/Covalent-Background_5.cc7bc02b.jpg": "/Alpha-Kongs-Club-NFt-Gallery/static/media/Covalent-Background_5.cc7bc02b.jpg",
+    "static/media/App.css": "/Alpha-Kongs-Club-NFt-Gallery/static/media/alert.6e5425f9.svg",
+    "static/media/banner.e7e48588.png": "/Alpha-Kongs-Club-NFt-Gallery/static/media/banner.e7e48588.png",
+    "static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif": "/Alpha-Kongs-Club-NFt-Gallery/static/media/covalent-logo-loop_dark_v2.d4efb9c1.gif",
+    "static/media/logo.00ecc9d5.svg": "/Alpha-Kongs-Club-NFt-Gallery/static/media/logo.00ecc9d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c210edee.js",
-    "static/js/2.22b58bae.chunk.js",
-    "static/css/main.f48c2a0c.chunk.css",
-    "static/js/main.6f30eeaf.chunk.js"
+    "static/js/runtime-main.34c3e2fb.js",
+    "static/js/2.5163c460.chunk.js",
+    "static/css/main.e760bf3b.chunk.css",
+    "static/js/main.2e189b39.chunk.js"
   ]
 }
