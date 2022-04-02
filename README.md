@@ -14,6 +14,14 @@ That's it!
 
 ![BYAC Dashboard](./public/ak7days.png)
 
+![BYAC Dashboard](./public/white-logo.png)
+
+![BYAC Dashboard](./public/gallerykong.png)
+
+![BYAC Dashboard](./public/kongdashb.png)
+
+![BYAC Dashboard](./public/Covalent.png)
+
 
 ## Live Demo
 1. [Live on GitHub pages](https://dezzydez007.github.io/Alpha-Kongs-Club-NFt-Gallery/)
