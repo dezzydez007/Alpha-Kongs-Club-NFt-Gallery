@@ -8,13 +8,17 @@ In the `src/config.js`, simply set your:
 
 That's it!
 
-![BYAC Dashboard](./public/byac_dashboard.png)
+![One-MOnth Chart](./public/ak1month.png)
+
+![BYAC Dashboard](./public/ak1year.png)
+
+![BYAC Dashboard](./public/ak7days.png)
 
 
 ## Live Demo
-1. [Live on GitHub pages](https://covalenthq.github.io/nft-dashboard-template/)
+1. [Live on GitHub pages](https://dezzydez007.github.io/Alpha-Kongs-Club-NFt-Gallery/)
 
-2. [Live on Replit](https://replit.com/@Covalent-Templates/NFT-Collection-Dashboard-Template?v=1)
+2. [Live on Replit](https://Alpha-Kong-NFT-collection.dezzydez007.repl.co)
 
 The live demo displays:
 * A customizable NFT collection dashboard page with a summary, a floor price graph and a preview of the first 5 NFTs in the collection 
@@ -34,21 +38,18 @@ While a default Covalent API Key is used in this code template, it is recommende
 
 
 ### GitHub Pages
-On GitHub, the code is available at https://github.com/covalenthq/nft-dashboard-template
+On GitHub, the code is available at https://dezzydez007.github.io/Alpha-Kongs-Club-NFt-Gallery/
 
 To get this working with GitHub pages, do the following:
 
 1. Click `Use this template`
 
-![Use GitHub template](./public/use_template.png)
 
 2. Name the repo and ensure you check off `Include all branches`. Click `Create repository from template`
 
-![Create NFT Dashboard Template](./public/create_nft_dashboard_template_settings.png)
 
 3. Under the `Settings` tab, select the `Pages` menu item and copy the URL where your site is published. 
 
-![GitHub Pages Setting](./public/github_pages_setting.png)
 
 4. Make sure you are on the `main` branch and open up `package.json`. Update the URL next to the `"homepage"` field using the URL where your site is being published. Commit your changes.
 
