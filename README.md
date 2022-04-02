@@ -85,7 +85,6 @@ TEMPLATE: {
 ```
 Commit your changes. Your custom NFT dashboard should be live at your published URL in just a couple minutes. You can check the `Actions` tab in your GitHub repo to confirm that your dashboard has finished deploying. 
 
-![BYAC Dashboard](./public/byac_dashboard.png)
 
 ### Replit
 On Replit, the code and hosted live demo site are integrated in one unified interface. 
